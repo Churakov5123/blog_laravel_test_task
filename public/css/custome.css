@@ -1,0 +1,28 @@
+
+.date-published {
+    width: 280px;
+    height: 230px; /* Размеры */
+    background: whitesmoke; /* Цвет фона */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+    /*display: inline-block;*/
+}
+
+#lester {
+    margin-top: -230px;
+    margin-left: 350px;
+
+}
+
+#formt {
+    width: 600px;
+    height: 600px; /* Размеры */
+    background: whitesmoke; /* Цвет фона */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+    /*display: inline-block;*/
+    padding: 40px;
+
+
+
+}
